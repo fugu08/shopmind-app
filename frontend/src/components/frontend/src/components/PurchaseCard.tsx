@@ -1,4 +1,4 @@
-tsx
+
 import React from 'react';
 import { ShoppingBag, AlertCircle } from 'lucide-react';
 import { Purchase } from '../types';
