@@ -1,4 +1,4 @@
-tsx
+
 import React from 'react';
 import { TrendingUp, Heart, PiggyBank, AlertTriangle } from 'lucide-react';
 import { Insight } from '../types';
