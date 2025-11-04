@@ -1,4 +1,4 @@
-tsx
+
 import React, { useState } from 'react';
 import { Plus, TrendingUp, Search, User } from 'lucide-react';
 import PurchaseCard from './components/PurchaseCard';
